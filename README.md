@@ -1,6 +1,6 @@
 ### Nice to meet you 👋 I'm Tan.
 
-- 🇦🇺 I am living in Melbourne, Australia.
+- 🇦🇺 I am living in Cairns, Australia.
 - 🤸 I am working as a Machine Learning Engineer at [GitLab](https://about.gitlab.com/).
 - 🥼 I am a polyglot coder and love programming languages. 
 - 😄 Pronouns: he/him
